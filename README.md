@@ -1,3 +1,2 @@
 # ID-Asg1
-Assignment 1
-testing commit 2
+Banner Photo: https://i.ytimg.com/vi/lMLK688FDmg/maxresdefault.jpg
