@@ -14,3 +14,6 @@ Article Image: https://onecms-res.cloudinary.com/image/upload/s--2rB6NYGV--/f_au
 "Harmful Substances" Image: https://scopeblog.stanford.edu/wp-content/uploads/2017/03/diet-pills-1328803_1920.jpg
 "Judge" Image: https://static.vecteezy.com/system/resources/previews/001/310/192/large_2x/close-up-of-a-judge-holding-a-gavel-free-photo.jpg
 "Stress" Image: https://hrlegal.com.au/wp-content/uploads/2020/10/iStock-1202813229.jpg
+NCPG Logo: https://www.ncpg.org.sg/images/default-source/default-album/img-logo.png
+HealthHub Logo: https://www.healthhub.sg/_layouts/15/HealthHub_UX2.0/images/homepage/HealthHubLogo.svg
+SCC Logo: https://scc.sg/e/wp-content/uploads/2017/08/Singapore-Counselling-Centre-Logo_Counselling-Services_3-300x215-300x215.jpg
