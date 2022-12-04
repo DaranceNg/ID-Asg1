@@ -2,6 +2,14 @@
 
 I CONFIRM WIN THIS TIME
 
+With the world cup underway, more and more illegal gambling sites are becoming active. I wanted to make a website that shows gamblers that gambling is not a healthy activity to partake in even though it is the "perfect time" now. Website also features other sites that
+may help gamblers in getting rid of their addiction.
+
+This website is targeted at people who gamble/people who are thinking of gambling. I wanted to keep the website simplistic to make it
+easier for the majority of people to read. Wanted to make 3 seperate pages but felt that one page would be easier overall for the user to read and understand the contents of the website. Couldnt get the dropdown menu to work in time.
+
+Planning to add a feedback form in the future, but unsure on how to make it at this point in time.
+
 Content
 https://www.channelnewsasia.com/singapore/zion-road-gambling-11-people-arrested-drugs-e-vaporisers-spf-1951346
 https://www.mayoclinic.org/diseases-conditions/compulsive-gambling/symptoms-causes/syc-20355178
